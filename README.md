@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚛️ React — Introducción al desarrollo con componentes
 
 ## ⚛️ Descripción  
@@ -27,3 +28,6 @@ Está pensada para quienes comienzan a aprender desarrollo web y quieren entende
 
 ```jsx
 <h1>{Gema}</h>
+=======
+# ex-p5-digital-academy-javascript-micro-exercises
+>>>>>>> 2736d39bc4802b6bd05bffa47084ea2324e8b367
